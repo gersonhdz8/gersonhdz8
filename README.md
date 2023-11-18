@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gersonhdz8&label=Profile%20views&color=0e75b6&style=plastic" alt="gersonhdz8" /> </p>
 
 
-- 🌱 I’m currently learning **Reac + Vite**
 
 - 💬 Ask me about **React, nodejs, MySQL, MongoDB, Javascript, HTML,CSS,Tailwind**
 
