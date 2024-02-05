@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerson Hernández</h1>
-<h3 align="center">Developer Full Stack && Mechatronic Engineer</h3>
+<h3 align="center">Software Developer && Mechatronic Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gersonhdz8&label=Profile%20views&color=0e75b6&style=plastic" alt="gersonhdz8" /> </p>
 
